@@ -9,7 +9,7 @@ public class PalmerPenguinsM7 {
         
 
         // Read species data
-        counter.readSpeciesData();
+        
 
         // Initialize species count
         counter.initializeSpeciesCount();

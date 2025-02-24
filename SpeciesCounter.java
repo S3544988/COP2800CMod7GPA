@@ -38,7 +38,7 @@ public class SpeciesCounter {
 
     // Checks if the species data is empty
     public boolean isDataEmpty() {
-        return 0;
+        return false;
     }
 
     // Counts occurrences of each species
